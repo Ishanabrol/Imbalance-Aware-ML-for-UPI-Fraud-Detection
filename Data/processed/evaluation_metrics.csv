@@ -1,0 +1,4 @@
+Model,Strategy,Precision,Recall,F1,ROC-AUC,PR-AUC,TP,FP,FN,TN,False Alarm %,₹ Protected,₹ Missed
+Random Forest,Baseline,0.9773,0.8776,0.9247,0.9843,0.913,86,2,12,2999,0.0666,"₹42,957.00","₹5,994.00"
+SVM,Baseline,0.9882,0.8571,0.918,0.9538,0.8903,84,1,14,3000,0.0333,"₹41,958.00","₹6,993.00"
+XGBoost,Baseline,0.9663,0.8776,0.9198,0.9846,0.9203,86,3,12,2998,0.1,"₹42,957.00","₹5,994.00"
