@@ -115,24 +115,24 @@ models that achieve **F1 > 0.92** with **false alarm rates below 0.1%**.
     <td><b>Feature Distributions</b></td>
   </tr>
   <tr>
-    <td><img src="outputs/01_class_imbalance.png" width="400"/></td>
-    <td><img src="outputs/04_feature_distributions.png" width="400"/></td>
+    <td><img src="Figures/01_class_imbalance.png" width="400"/></td>
+    <td><img src="Figures/04_feature_distributions.png" width="400"/></td>
   </tr>
   <tr>
     <td><b>Confusion Matrices</b></td>
     <td><b>ROC Curves</b></td>
   </tr>
   <tr>
-    <td><img src="outputs/10_confusion_matrices.png" width="400"/></td>
-    <td><img src="outputs/11_roc_curves.png" width="400"/></td>
+    <td><img src="Figures/10_confusion_matrices.png" width="400"/></td>
+    <td><img src="Figures/11_roc_curves.png" width="400"/></td>
   </tr>
   <tr>
     <td><b>PR Curves</b></td>
     <td><b>Feature Importance</b></td>
   </tr>
   <tr>
-    <td><img src="outputs/12_pr_curves.png" width="400"/></td>
-    <td><img src="outputs/13_feature_importance.png" width="400"/></td>
+    <td><img src="Figures/12_pr_curves.png" width="400"/></td>
+    <td><img src="Figures/13_feature_importance.png" width="400"/></td>
   </tr>
 </table>
 
